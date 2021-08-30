@@ -24,6 +24,8 @@ Our objective is to use data collected regarding the conditions under which a co
 ## Project Description
 Data collected by a survey regarding the conditions under which someone either accepted or rejected a coupon were assessed and processed to create an optimal algorithm to determine whether a candidate should be offered a coupon in order to optimize coupon acceptance. 
 
+## ROC Comparison for Models
+![image](https://user-images.githubusercontent.com/74040889/131297526-9f30ec80-d5e8-4799-bc44-feaad400a578.png)
 
 ## Presentations and projects
 * [Project write-up](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
